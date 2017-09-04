@@ -1,11 +1,10 @@
 {
    "Levels":{
-      "0":{"kind":"SewerLevel", "depth":0,        "size":[0,0]},
+      "0":{"kind":"SewerLevel", "depth":0,        "size":[0,0], "music":"theme.mp3"},
       "test_guts":{"kind":"PredesignedLevel", "depth":2,  "size":[16,16], "file":"levelsDesc/TestLevelGuts.json"},
       "test_sewers":{"kind":"PredesignedLevel", "depth":2,  "size":[16,16], "file":"levelsDesc/TestLevelSewers.json"},
-      "Novikov":{"kind":"PredesignedLevel", "depth":0,  "size":[16,16], "file":"levelsDesc/Novikov.json"},
       "shadow_lord_level":{"kind":"ShadowLordLevel", "depth":25,        "size":[20,20]},
-      "1":{"kind":"SewerLevel", "depth":1,        "size":[32,32]},
+      "1":{"kind":"SewerLevel", "depth":1,        "size":[32,32], "music":"game.mp3"},
       "2":{"kind":"SewerLevel", "depth":2,        "size":[32,32]},
       "3":{"kind":"SewerLevel", "depth":3,        "size":[32,32]},
       "4":{"kind":"SewerLevel", "depth":4,        "size":[32,32]},
